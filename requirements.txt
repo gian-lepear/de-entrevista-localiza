@@ -1,0 +1,11 @@
+apache-airflow
+black
+apache-airflow-providers-docker
+pandas
+psycopg2-binary
+SQLAlchemy
+polars
+adbc-driver-postgresql
+pyarrow
+python-dotenv
+boto3
